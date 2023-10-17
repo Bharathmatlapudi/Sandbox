@@ -29,7 +29,7 @@ minimal_mistakes_skin: "dirt"
 # settings for author profile
 author:
   name   : "Bharath Matlapudi"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "https://www.linkedin.com/in/bharath-matlapudi-061098177/"
   bio    : "I love working with cross functional teams to develope cool apps"
   location: "Dekalb, IL"
   github : Bharathmatlapudi
