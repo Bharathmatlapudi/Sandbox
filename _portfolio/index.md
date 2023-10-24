@@ -32,10 +32,11 @@ feature_row:
 
 # Portfolio
 
-Here you'll find summaries of the major projects I've done over the years, which
-are representative of my skills and interests. These projects span everything
-from mathematical physics to machine learning, from finance to advertising, from
-the theoretical to the practical.
+As a Data Analyst with over 3 years of experience, I excel in various databases such as MongoDB, SQL, and MySQL, effectively harnessing
+data for valuable insights. I use cutting-edge data visualisation technologies like Tableau, Power BI, and Microsoft Visual Studio to break
+down complex data to discover patterns and trends. My statistical skills include regression analysis, hypothesis testing, and clustering in
+Python to identify trends and make data-driven decisions. My skill brings data to life, delivering impactful solutions for organizational
+success.
 
 The discussion here is generally non-technical; for the research projects,
 related publications can be found in [my resume][1]. There are also links to
